@@ -10,7 +10,12 @@ Module Installed:
 
 
 pip install speechreognition
+
+
+
 conda install pyaudio
+
+
 
 Libraries used:
 
@@ -18,4 +23,7 @@ Libraries used:
 
 
 speech_reognition
+
+
+
 google speech api
