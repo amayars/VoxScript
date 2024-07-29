@@ -1,9 +1,10 @@
 
-Project: Speech to Text Recognition using PyAudio <br/>
-Welcome to the Speech to Text Recognition project repository! This project leverages the PyAudio library to convert spoken language into written text, offering a seamless and efficient way to transcribe audio input in real-time. Below you'll find a comprehensive overview of the project, its features, and how to get started.
+Project: VoxScript <br/>
+"VoxScript: Transforming spoken words into written text with ease." <br/>
+Welcome to the VoxScript project repository! This project leverages the PyAudio library to convert spoken language into written text, offering a seamless and efficient way to transcribe audio input in real-time. Below you'll find a comprehensive overview of the project, its features, and how to get started.
 <br/><br/>
 Project Overview <br/><br/>
-The Speech to Text Recognition project aims to provide an accurate and reliable tool for converting speech into text using Python and the PyAudio library. Whether you're looking to transcribe meetings, create subtitles for videos, or build voice-activated applications, this project serves as a robust starting point.
+The VoxScript project aims to provide an accurate and reliable tool for converting speech into text using Python and the PyAudio library. Whether you're looking to transcribe meetings, create subtitles for videos, or build voice-activated applications, this project serves as a robust starting point.
 <br/><br/>
 Features<br/>
 Real-Time Transcription: Converts spoken words into text in real-time with minimal latency.<br/><br/>
